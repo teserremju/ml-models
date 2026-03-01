@@ -23,3 +23,4 @@
 17:31:10 | cluster_name=3039
 17:31:12 | sbom_hash=2d77e4820bd39f7db6fc0c4fce0e1171e581fac6c233e71fbe50108a2fd08e3c
 18:31:08 | artifact=991260
+18:31:11 | cluster_name=7285
