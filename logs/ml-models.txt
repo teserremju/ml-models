@@ -90,3 +90,4 @@
 15:31:15 | sbom_hash=e197f3f038dec2c7272dee6d43ec6dc4a824c9b94ea668e330685e6a61eff645
 16:31:13 | artifact=661877
 16:31:17 | cluster_name=6229
+16:31:19 | sbom_hash=d8a1c310c1981ef25f98baafac3e9ed6ba8af5eaca69a21569b9000d6dc52e7b
