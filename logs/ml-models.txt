@@ -110,3 +110,4 @@
 22:31:11 | cluster_name=4960
 22:31:13 | sbom_hash=56000ae7ef231e212ff618cbcd458b68c689a33d00c30ad068846acc656143aa
 23:31:08 | artifact=400919
+23:31:10 | cluster_name=1326
