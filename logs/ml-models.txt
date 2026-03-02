@@ -92,3 +92,4 @@
 16:31:17 | cluster_name=6229
 16:31:19 | sbom_hash=d8a1c310c1981ef25f98baafac3e9ed6ba8af5eaca69a21569b9000d6dc52e7b
 17:31:14 | artifact=251634
+17:31:16 | cluster_name=3229
